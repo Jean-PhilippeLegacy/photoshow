@@ -1,3 +1,5 @@
+This is a laravel application create in a Udemy Course. It is an image gallery where users can create albums and upload pictures to those albums
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
